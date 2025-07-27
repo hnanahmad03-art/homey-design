@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Homey Design Furniture",
+    "description": "",
+    "home_page_url": "https://homey-design.pages.dev",
+    "feed_url": "https://homey-design.pages.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Micheal K."
+    },
+    "items": [
+    ]
+}
